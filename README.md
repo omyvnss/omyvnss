@@ -75,12 +75,10 @@ Building ......................... git11, Oncfo, MetricsPulse, KalyxAI
 
 Hobbies .......................... F1 (endurance racing), Cinema, Trap
 --------------------------------------------------------
-Email ............................ your.email@gmail.com
+Email ............................ omyaduvanshi98@gmail
 GitHub ........................... github.com/omyvnss
 X ................................ @omyvnss
---------------------------------------------------------
-Repos ............................ XX  |  Stars: XX
-Commits .......................... XX  |  Followers: XX
+-------------------------------------------------------- 
 </pre>
 
 </td>
@@ -96,7 +94,7 @@ Commits .......................... XX  |  Followers: XX
 **KalyxAI**
 
 ### ⚡ Fun fact
-I build entire SaaS products solo using AI-first tools — Lovable, Supabase, and the Claude API — and I'm still in school.
+I am a Bio guy 
 
 <p align="center">
   <a href="https://github.com/omyvnss"><img src="https://img.shields.io/github/followers/omyvnss?label=Follow&style=social" /></a>
