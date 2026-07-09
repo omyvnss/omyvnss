@@ -88,10 +88,7 @@ X ................................ @omyvnss
 ---
 
 ### 🛠️ Currently building
-**[Vault & co.](https://vaultnco.store)** — Premium Directory for unhinged folks ( running by ai agents )
-**Oncfo** — AI-powered weekly revenue briefings for indie founders  
-**MetricsPulse** — AI revenue intelligence platform  
-**KalyxAI**
+**[Vault & co.](https://vaultnco.store)** — Premium Directory for unhinged folks ( running by ai agents ) prev - git11,Oncfo 
 
 ### ⚡ Fun fact
 I am a Bio guy and ik 14+ plus professional softwares including davinci, Adobe ps, VsC,  Blender and the list goes on 
