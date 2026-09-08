@@ -71,45 +71,12 @@
       "instanceId": "widget_1788877865088_3"
     },
     {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 400,
-        "y": 98
-      },
-      "size": {
-        "width": 392,
-        "height": 400
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
-        ],
-        "theme": "dark",
-        "perLine": 8,
-        "hideBorder": true,
-        "showTitle": true,
-        "backgroundColor": "#0d1117"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1788877865088_5"
-    },
-    {
       "instanceId": "widget_1788878182636",
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 710
+        "y": 760
       },
       "size": {
         "width": 800,
@@ -121,7 +88,7 @@
         "hideDecorations": false,
         "backgroundColor": "#0d1117"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 7
     },
@@ -131,7 +98,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 0,
-        "y": 490
+        "y": 506
       },
       "size": {
         "width": 800,
@@ -143,6 +110,38 @@
       "locked": false,
       "visible": true,
       "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788880087034",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 408,
+        "y": 102
+      },
+      "size": {
+        "width": 384,
+        "height": 372
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "js",
+          "ts",
+          "css",
+          "bash",
+          "py",
+          "sass",
+          "docker",
+          "supabase",
+          "vscode",
+          "blender"
+        ],
+        "backgroundColor": "#0d1117"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
