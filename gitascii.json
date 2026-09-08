@@ -1,0 +1,134 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 10
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788877865088_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 0,
+        "y": 90
+      },
+      "size": {
+        "width": 448,
+        "height": 248
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788877865088_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 346
+      },
+      "size": {
+        "width": 440,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788877865088_3"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 448,
+        "y": 98
+      },
+      "size": {
+        "width": 352,
+        "height": 400
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "html",
+          "css",
+          "py",
+          "rust",
+          "go",
+          "cpp"
+        ],
+        "theme": "dark",
+        "perLine": 4
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788877865088_5"
+    },
+    {
+      "instanceId": "widget_1788878182636",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 774
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788878209878",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 530
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
