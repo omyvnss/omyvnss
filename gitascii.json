@@ -103,8 +103,8 @@
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
       "position": {
-        "x": 0,
-        "y": 766
+        "x": 4,
+        "y": 856
       },
       "size": {
         "width": 792,
@@ -112,7 +112,8 @@
       },
       "config": {
         "hideBorder": true,
-        "showTitle": false
+        "showTitle": false,
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
@@ -148,7 +149,7 @@
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "native",
-    "transparentBackground": false
+    "transparentBackground": true
   },
   "templateId": "terminal",
   "profileSlug": "default"
