@@ -113,11 +113,11 @@
       },
       "size": {
         "width": 800,
-        "height": 184
+        "height": 304
       },
       "config": {
         "hideBorder": true,
-        "showTitle": false,
+        "showTitle": true,
         "hideDecorations": false,
         "backgroundColor": "#0d1117"
       },
