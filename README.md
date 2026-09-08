@@ -1,5 +1,6 @@
-<img
-    src="https://gitascii.com/api/omyvnss?v=1788878531378"
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/omyvnss?v=1788879633488"
     alt="GitAscii Widget"
     width="100%"
   />
