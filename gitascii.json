@@ -14,7 +14,11 @@
       },
       "config": {
         "animationType": "fade-in",
-        "animationPreviewKey": 10
+        "animationPreviewKey": 10,
+        "showTitle": true,
+        "hideBorder": false,
+        "hideDecorations": false,
+        "animationEasing": "ease-out"
       },
       "locked": false,
       "visible": true,
@@ -29,10 +33,17 @@
         "y": 90
       },
       "size": {
-        "width": 448,
-        "height": 248
+        "width": 392,
+        "height": 208
       },
-      "config": {},
+      "config": {
+        "headerColor": "#ffffff",
+        "labelColor": "#d4d4d8",
+        "dotColor": "#3f3f46",
+        "valueColor": "#fafafa",
+        "statsValColor": "#e4e4e7",
+        "dividerColor": "#27272a"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -43,10 +54,10 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 346
+        "y": 314
       },
       "size": {
-        "width": 440,
+        "width": 392,
         "height": 160
       },
       "config": {},
@@ -59,11 +70,11 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 448,
+        "x": 400,
         "y": 98
       },
       "size": {
-        "width": 352,
+        "width": 392,
         "height": 400
       },
       "config": {
@@ -78,7 +89,9 @@
           "cpp"
         ],
         "theme": "dark",
-        "perLine": 4
+        "perLine": 8,
+        "hideBorder": true,
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
@@ -91,13 +104,16 @@
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 774
+        "y": 766
       },
       "size": {
-        "width": 800,
-        "height": 250
+        "width": 792,
+        "height": 184
       },
-      "config": {},
+      "config": {
+        "hideBorder": true,
+        "showTitle": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -114,7 +130,9 @@
         "width": 800,
         "height": 220
       },
-      "config": {},
+      "config": {
+        "hideBorder": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -129,7 +147,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "terminal",
   "profileSlug": "default"
