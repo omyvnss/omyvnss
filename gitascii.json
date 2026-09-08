@@ -31,7 +31,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 0,
-        "y": 90
+        "y": 98
       },
       "size": {
         "width": 392,
@@ -95,7 +95,7 @@
         "theme": "dark",
         "perLine": 8,
         "hideBorder": true,
-        "showTitle": false,
+        "showTitle": true,
         "backgroundColor": "#0d1117"
       },
       "locked": false,
@@ -108,17 +108,18 @@
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
       "position": {
-        "x": 4,
-        "y": 856
+        "x": 0,
+        "y": 710
       },
       "size": {
-        "width": 792,
+        "width": 800,
         "height": 184
       },
       "config": {
         "hideBorder": true,
         "showTitle": false,
-        "hideDecorations": false
+        "hideDecorations": false,
+        "backgroundColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
@@ -130,7 +131,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 0,
-        "y": 530
+        "y": 490
       },
       "size": {
         "width": 800,
